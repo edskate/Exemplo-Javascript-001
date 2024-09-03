@@ -4,4 +4,8 @@ body{
 i{
     color: rgb(243, 243, 0);
     text-shadow: 10px -10px 10px #000 ;
+    margin: 30px;
+}
+p{
+    margin: 20px;
 }
