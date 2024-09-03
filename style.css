@@ -9,3 +9,9 @@ i{
 p{
     margin: 20px;
 }
+img{
+    margin: 30px;
+    box-shadow: 10px 10px 10px ;
+    border: 2px solid gray;
+    border-radius: 10px 10px 10px ;
+}
